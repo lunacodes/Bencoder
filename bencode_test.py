@@ -1,5 +1,5 @@
 import unittest
-from bencode import * 
+from bencode2 import * 
 
 class BencodeTest(unittest.TestCase):
     def test_str_length(self):
